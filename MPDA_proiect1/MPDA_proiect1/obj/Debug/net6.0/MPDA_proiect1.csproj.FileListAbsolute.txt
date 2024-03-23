@@ -1,0 +1,14 @@
+C:\Users\damunteanu\source\repos\MPDA_proiect1\MPDA_proiect1\bin\Debug\net6.0\MPDA_proiect1.exe
+C:\Users\damunteanu\source\repos\MPDA_proiect1\MPDA_proiect1\bin\Debug\net6.0\MPDA_proiect1.deps.json
+C:\Users\damunteanu\source\repos\MPDA_proiect1\MPDA_proiect1\bin\Debug\net6.0\MPDA_proiect1.runtimeconfig.json
+C:\Users\damunteanu\source\repos\MPDA_proiect1\MPDA_proiect1\bin\Debug\net6.0\MPDA_proiect1.dll
+C:\Users\damunteanu\source\repos\MPDA_proiect1\MPDA_proiect1\bin\Debug\net6.0\MPDA_proiect1.pdb
+C:\Users\damunteanu\source\repos\MPDA_proiect1\MPDA_proiect1\obj\Debug\net6.0\MPDA_proiect1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damunteanu\source\repos\MPDA_proiect1\MPDA_proiect1\obj\Debug\net6.0\MPDA_proiect1.AssemblyInfoInputs.cache
+C:\Users\damunteanu\source\repos\MPDA_proiect1\MPDA_proiect1\obj\Debug\net6.0\MPDA_proiect1.AssemblyInfo.cs
+C:\Users\damunteanu\source\repos\MPDA_proiect1\MPDA_proiect1\obj\Debug\net6.0\MPDA_proiect1.csproj.CoreCompileInputs.cache
+C:\Users\damunteanu\source\repos\MPDA_proiect1\MPDA_proiect1\obj\Debug\net6.0\MPDA_proiect1.dll
+C:\Users\damunteanu\source\repos\MPDA_proiect1\MPDA_proiect1\obj\Debug\net6.0\refint\MPDA_proiect1.dll
+C:\Users\damunteanu\source\repos\MPDA_proiect1\MPDA_proiect1\obj\Debug\net6.0\MPDA_proiect1.pdb
+C:\Users\damunteanu\source\repos\MPDA_proiect1\MPDA_proiect1\obj\Debug\net6.0\MPDA_proiect1.genruntimeconfig.cache
+C:\Users\damunteanu\source\repos\MPDA_proiect1\MPDA_proiect1\obj\Debug\net6.0\ref\MPDA_proiect1.dll
