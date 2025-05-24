@@ -17,17 +17,13 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v4
       with:
-        dotnet-version: '8.0.x' # sau 7.0.x dacă folosești altă versiune
+        dotnet-version: '8.0.x'
 
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore Medii-si-platforme-de-dezvoltare-avansate/MPDA_proiect1/MPDA_proiect1.sln
 
     - name: Build solution
-      run: dotnet build --no-restore
-
-    - name: Build solution
-      run: dotnet build Medii-si-platforme-de-dezvoltare-avansate/blob/main/MPDA_proiect1/MPDA_proiect1.sln --no-restore
+      run: dotnet build Medii-si-platforme-de-dezvoltare-avansate/MPDA_proiect1/MPDA_proiect1.sln --no-restore
 
     - name: Run tests
-      run: dotnet test Medii-si-platforme-de-dezvoltare-avansate/blob/main/MPDA_proiect1/MPDA_proiect1.sln --no-build --verbosity normal
-
+      run: dotnet test Medii-si-platforme-de-dezvoltare-avansate/MPDA_proiect1/MPDA_proiect1.sln --no-build --verbosity normal
