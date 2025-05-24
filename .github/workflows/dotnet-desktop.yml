@@ -25,5 +25,9 @@ jobs:
     - name: Build solution
       run: dotnet build --no-restore
 
+    - name: Build solution
+      run: dotnet build Medii-si-platforme-de-dezvoltare-avansate/blob/main/MPDA_proiect1/MPDA_proiect1.sln --no-restore
+
     - name: Run tests
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test Medii-si-platforme-de-dezvoltare-avansate/blob/main/MPDA_proiect1/MPDA_proiect1.sln --no-build --verbosity normal
+
